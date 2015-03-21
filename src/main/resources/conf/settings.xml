@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<parameter id="servant.config.master" value="java:///conf/servant.catalog.xml#App" />
+	<parameter id="servant.config.secondary" value="java:///conf/servant.catalog.xml#App" />
+</settings>
+
