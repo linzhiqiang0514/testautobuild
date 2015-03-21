@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog name="root">
+	<catalog name="demo">
+			<service
+				id="Helloworld"
+				name="Helloworld"
+				note="Hello world,我的第一个Logicbus服务"
+				visible="public"
+				log = "detail" 
+				module="demo.service.Helloworld"
+			/>
+	</catalog>
+</catalog>
+
